@@ -1,5 +1,5 @@
 # Familar-with-version-control
 **Welkome to the lesson**
-create lesson
-new task
-hello world
+1. create lesson
+1. new task
+1. hello world
